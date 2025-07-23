@@ -6,7 +6,7 @@ A simple web app that changes the background color to a random one each time you
 
 1. Clone the repo:
 
-git clone https://github.com/wintersboy20/randomColorChanger.git
+  git clone https://github.com/wintersboy20/randomColorChanger.git
 
 3. Open `index.html` in your browser.
 
